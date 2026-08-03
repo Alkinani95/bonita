@@ -1,7 +1,0 @@
-[
-  { "key": "boots", "label": "Boots & Booties", "color1": "#8E6A3F", "color2": "#5A3E22", "desc": "Structure that carries you through cold seasons." },
-  { "key": "sandals", "label": "Sandals", "color1": "#5F6B57", "color2": "#37402F", "desc": "Light, open, and built for warm days." },
-  { "key": "heels", "label": "Pumps & Heels", "color1": "#7A3E3E", "color2": "#4E2323", "desc": "Height with a stable, well-built base." },
-  { "key": "flats", "label": "Flats", "color1": "#4C463C", "color2": "#231F19", "desc": "Everyday comfort without losing shape." },
-  { "key": "access", "label": "Accessories", "color1": "#A9A398", "color2": "#726C60", "desc": "The details that finish a look." }
-]
